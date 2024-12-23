@@ -1,0 +1,4 @@
+Environment,Requests/sec,Latency,Transfer/sec,Comparison
+Node.js,21788.68,18.18ms,5.19MB
+Bun,85081.64,4.8ms,16.47MB
+,Bun is 290.49% faster in Requests/sec; Node.js is 278.75% slower in Latency; Bun is 217.34% better in Transfer/sec
