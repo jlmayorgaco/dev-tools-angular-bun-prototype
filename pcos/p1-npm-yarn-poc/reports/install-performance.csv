@@ -1,0 +1,4 @@
+Manager/Runtime,Task,Time (ms)
+npm,Clean Install Dependencies,193684.88
+yarn,Clean Install Dependencies,184589.37
+bun,Clean Install Dependencies,6622.72
