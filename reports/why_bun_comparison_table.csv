@@ -1,0 +1,8 @@
+Feature,Node.js,Deno,Bun
+Creator,Ryan Dahl,Ryan Dahl,Jarred Sumner
+TypeScript Support,Requires configuration,Built-in,Partial
+Security,No default sandbox,Secure by default,No default sandbox
+Performance,Mature, slower,Comparable to Node.js,Faster than both
+Package Management,npm/yarn/pnpm,URL-based imports,Built-in
+Runtime,V8 Engine,V8 Engine,JavaScriptCore
+Primary Focus,Ecosystem, maturity,Security, modern APIs,Speed, developer tools
