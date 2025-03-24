@@ -1,0 +1,4 @@
+Manager/Runtime,Task,Time (ms)
+Node.js,Run CPU-Intensive Script,2655.89
+Bun,Run CPU-Intensive Script,2873.60
+Yarn,Run CPU-Intensive Script,3276.96
