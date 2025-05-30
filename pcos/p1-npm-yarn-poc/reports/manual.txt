@@ -1,0 +1,6 @@
+npm ci --force : 1:08_36 seg
+npm run start: 1:13:79 seg 
+Build at: 2024-12-12T02:50:42.710Z - Hash: 11505e3baa6d81179bec - Time: 12142ms
+
+
+bun ci --force 
